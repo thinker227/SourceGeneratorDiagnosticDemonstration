@@ -14,7 +14,7 @@ namespace ConsoleApp {
 	// Generates error 56928 after rebuild and does not cause red squiggles.
 	// Renaming class to ex. "Bar" does not cause error to be resolved
 	// unless project is rebuilt.
-	class Bar {
+	class Foo {
 
 	}
 }
